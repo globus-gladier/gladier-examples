@@ -1,0 +1,6 @@
+funcx
+globus-automate-client
+jupyter
+shortuuid
+matplotlib
+
