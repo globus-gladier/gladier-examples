@@ -1,0 +1,9 @@
+name: gladier
+dependencies:
+- pip
+- python
+- pip:
+  - gladier
+  - gladier-tools
+variables:
+  SSH_TTY: BINDER_REMOTE
