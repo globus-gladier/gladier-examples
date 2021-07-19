@@ -1,6 +1,6 @@
 funcx
+gladier
+gladier-tools
 globus-automate-client
 jupyter
-shortuuid
-matplotlib
 
