@@ -1,4 +1,4 @@
-funcx
-gladier
-gladier-tools
+funcx>=1.0.0
+gladier>=0.7.0
+gladier-tools>=0.4.0
 
